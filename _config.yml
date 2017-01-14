@@ -1,14 +1,14 @@
-url: https://ludanlovefang.github.io
-baseurl: 
+url: http://kirbyt.github.io
+baseurl: /timeline-jekyll-theme
 
 # Site Settings
-title: Timeline
-description: "Timeline is multipurpose, single page Jekyll theme that includes a timeline section."
+title: Freida & Shawn
+description: "Love Meomry with Freida"
 keywords: "jekyll, theme"
 google-tracking-id:
 
 # Career Settings
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
-
-exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+author: Shawn
+exclude: ["Rakefile", "LICENSE", "readme.markdown","about.html"]
