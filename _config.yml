@@ -11,4 +11,5 @@ google-tracking-id:
 # Default career thumbnail image.
 career-img: "img/timeline/default.jpg"
 author: Shawn
-exclude: ["Rakefile", "LICENSE", "readme.markdown","about.html","contact.html"]
+#exclude: ["Rakefile", "LICENSE", "readme.markdown","about.html","contact.html"]
+exclude: ["Rakefile", "LICENSE", "readme.markdown","contact.html"]
