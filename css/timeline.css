@@ -13,6 +13,7 @@
     width: 2px;
     margin-left: -1.5px;
     background-color: #f1f1f1;
+    background: url(img/intro-bg.jpg)
 }
 
 .timeline>li {
